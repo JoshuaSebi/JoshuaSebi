@@ -4,9 +4,8 @@
   A little bit about me...
 </p>
 
-- 🎓 I'm a CS undergrad exploring new technologies.
-- 🎨 I am a design enthusiast.
-- 🌱 I’m currently learning Btech in Computer Science
+- 🌱 CS undergrad exploring new technologies.
+- 🎨 Design enthusiast.
 - 📫 How to reach me: joshua.palokaran@gmail.com
 
 ## 📊 My GitHub Stats
