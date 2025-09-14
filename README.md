@@ -13,11 +13,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaSebi&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaSebi&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
